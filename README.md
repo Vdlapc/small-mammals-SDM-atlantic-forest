@@ -64,9 +64,9 @@ The pipeline is complete from data acquisition through GLM modelling. Preliminar
 
 | Role | Person |
 |---|---|
-| ENM pipeline — original scripts | Bruno Evaldt |
-| Scientific supervision | Dra. Ana Carolina Loss (INMA/UFES) |
-| LULC analysis, adaptation & implementation | Valéria Dallapícula |
+| ENM pipeline — original scripts | Msc. Bruno Evaldt and Dr. Ana Carolina Loss (INMA/UFES) |
+| Scientific supervision | Dr. Ana Carolina Loss (INMA/UFES) |
+| LULC analysis, adaptation & implementation | Msc. Valéria Dallapícula |
 
 ---
 
